@@ -14,4 +14,4 @@ Untuk menggunakan ekstensi **.ipynb** project saya, pastikan perangkat anda baik
 Pengerjaan project Assesment Python dari Skill Academy by Ruang Guru tersedia dalam bentuk Jupyter notebook (ekstensi .ipynb). Pengerjaan project ini menggunkan library pandas, numpy dan matplotlib. Di setiap cell, saya udah mmeberi keterangan agar pembaca dapat memahami source code yang saya buat. 
 
 # ⚖️ Lisensi
-Karya ni sudah memiliki lisensi MIT License https://opensource.org/licenses/MIT. Untuk mengetahui lebih lanjut, silahkan kunjungi https://opensource.org/licenses/MIT
+Karya ini sudah memiliki lisensi MIT License https://opensource.org/licenses/MIT. Untuk mengetahui lebih lanjut, silahkan kunjungi https://opensource.org/licenses/MIT
