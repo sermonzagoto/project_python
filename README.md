@@ -1,7 +1,7 @@
 # Assesment Python Skill Academy by Ruang Guru
-Project ini berisi tentang hasil pengerjaan saya dari Skill Academy by Ruang Guru
+Project ini berisi tentang hasil pengerjaan saya mengenai Data Science dari Skill Academy by Ruang Guru.
 
-Untuk mengunduh materi-materi di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
+Untuk mengunduh hasil project saya di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
 git clone https://github.com/sermonzagoto/assesment-python.git
 Atau meng-klik tombol hijau bertuliskan "Clone or download" dan "Download ZIP" di bagian kanan atas halaman ini.
 
