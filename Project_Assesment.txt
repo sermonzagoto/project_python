@@ -1,1 +1,2 @@
-sssssssss
+Ini adalah hasil project pengerjaan dari Kelas Online Skill Academy by Ruang Guru. Project ini menggunakan dataset dari kelas tersebut. Untuk mendapatkan dataset, Anda dapat mengikuti kursus online di Skill Academy by Ruang Guru dengan mengambil kelas Programming Foundation for Data Science.
+Terima kasih
